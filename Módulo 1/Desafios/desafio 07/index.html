@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="cara maluca.png">
+    <title>desafio 07</title>
+</head>
+<body>
+    <h1>Imagem flexível</h1>
+    <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para <br> ter uma experiência completa 
+    &#x1F92F;
+    </p>
+    <picture>
+        <source media="(max-width: 320px)" srcset="imagens/paisagem_250.png" type="image/png">
+        <source media="(max-width: 420px)" srcset="imagens/paisagem_300.png" type="image/png">
+        <source media="(max-width: 520px)" srcset="imagens/paisagem_400.png" type="image/png">
+        <source media="(max-width: 620px)" srcset="imagens/paisagem_500.png" type="image/png">
+        <source media="(max-width: 720px)" srcset="imagens/paisagem_600.png" type="image/png">
+        <source media="(max-width: 820px)" srcset="imagens/paisagem_700.png" type="image/png">
+        <source media="(max-width: 920px)" srcset="imagens/paisagem_800.png" type="image/png">
+        <source media="(max-width: 1180px)" srcset="imagens/paisagem_900.png" type="image/png">
+        <img src="./imagens/paisagem_1150.png" alt="Foto flexível">
+    </picture>
+</body>
+</html>

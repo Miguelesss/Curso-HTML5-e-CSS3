@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#videos {
+    text-align: center;
+}
+
+#link {
+    text-align: center;
+}    
+
+#back {
+    text-align: center;
+}
