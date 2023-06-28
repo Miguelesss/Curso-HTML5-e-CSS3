@@ -3,9 +3,5 @@
 
  Estou aprendendo a criar sites com HTML e CSS e agora estou aprendendo a gerenciar meus repositórios locais e remotos
 
-<<<<<<< HEAD
 # Acessar arquivos
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">Executar o exercício 00
-=======
-# Acessar arquivos
->>>>>>> parent of a8f443d (Update README.md)
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">Executar o exercício 001
