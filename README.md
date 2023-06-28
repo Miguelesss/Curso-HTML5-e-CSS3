@@ -1,9 +1,12 @@
-# Curso HTML5 e CSS3
- Curso de HTML5 e CSS3 do Curso em vídeo
-
- Estou aprendendo a criar sites com HTML e CSS e agora estou aprendendo a gerenciar meus repositórios locais e remotos
-# Executar projetos
-<h1 styel="font-family: arial, helvetica, sans-serif; font-size: 20px">Exercícios</h1>
+<h1>
+    Curso HTML e CSS
+</h1>
+<p style="text-indent: 20px;">
+    Estou aprendendo a criar sites com HTML e CSS e agora estou aprendendo a gerenciar meus repositórios locais e remotos
+</p>
+<h1 style="font-family: arial, helvetica, sans-serif; font-size: 20px">
+    Exercícios
+</h1>
 <a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
     Executar o exercício 001
 </a>
@@ -92,3 +95,46 @@
     Executar o exercício 023
 </a>
 <br>
+<br>
+<h1 style="font-family: arial, helvetica, sans-serif; font-size: 20px">
+    Desafios
+</h1>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio01/index.html">
+    Executar o desafio 001
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio02/index.html">
+    Executar o desafio 002
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio03/index.html">
+    Executar o desafio 003
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio04/index.html">
+    Executar o desafio 004
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio05/index.html">
+    Executar o desafio 005
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio06/index.html">
+    Executar o desafio 006
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio07/index.html">
+    Executar o desafio 007
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio08/index.html">
+    Executar o desafio 008
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/desafios/desafio09/index.html">
+    Executar o desafio 009
+</a>
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/desafios/exe010/index.html">
+    Executar o desafio 010
+</a>
