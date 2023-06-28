@@ -22,3 +22,12 @@ p {
     font-family: 'Sacramento', cursive;
     font-size: 30px;
 }
+
+a {
+    text-decoration: none;
+    color: black; 
+}
+
+a:hover {
+    text-decoration: underline;
+}

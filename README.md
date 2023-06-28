@@ -7,69 +7,92 @@
 <a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
     Executar o exercício 001
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe002/index.html">
     Executar o exercício 002
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe003/index.html">
     Executar o exercício 003
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe004/index.html">
     Executar o exercício 004
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe005/index.html">
     Executar o exercício 005
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe006/index.html">
     Executar o exercício 006
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe007/index.html">
     Executar o exercício 007
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe008/index.html">
     Executar o exercício 008
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe009/index.html">
     Executar o exercício 009
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe010/index.html">
     Executar o exercício 010
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe011/index.html">
     Executar o exercício 011
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe012/index.html">
     Executar o exercício 012
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe013/index.html">
     Executar o exercício 013
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe014/index.html">
     Executar o exercício 014
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe015/index.html">
     Executar o exercício 015
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe016/index.html">
     Executar o exercício 016
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe017/index.html">
     Executar o exercício 017
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe018/index.html">
     Executar o exercício 018
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe019/index.html">
     Executar o exercício 019
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe020/index.html">
     Executar o exercício 020
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe021/index.html">
     Executar o exercício 021
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe022/index.html">
     Executar o exercício 022
 </a>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">
+<br>
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe023/index.html">
     Executar o exercício 023
-    </a>
+</a>
+<br>
