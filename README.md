@@ -5,4 +5,4 @@
 
 # Acessar arquivos
 
-<a href="https://Miguelesss.github.io/Curso-HTML5-e-CSS3/Módulo&1/Exercicios/exercicio&01/index.html">Executar o exercício 001
+<a href="https://Miguelesss.github.io/Curso-HTML5-e-CSS3/modulo01/exercicios/exe001/index.html">Executar o exercício 001
