@@ -135,6 +135,6 @@
     Executar o desafio 009
 </a>
 <br>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/desafios/desafio010-resolucao/android.html" target="_blank">
+<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/desafios/desafio010-resolucao/index.html" target="_blank">
     Executar o desafio 010
 </a>
