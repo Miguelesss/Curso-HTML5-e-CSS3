@@ -6,10 +6,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-@font-face {
-    font-family: 'idroid';
-    src: url(/fontes/idroid.otf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 :root {
     --cor01: #35D679;
@@ -18,10 +15,8 @@
     --cor04: #1d3627 ;
     --cor05: #2DB566;
     --font-family-content: 'arial', helvetica, sans-serif;
-    --font-family-title: 'idroid';
+    --font-family-title: 'Share Tech Mono', monospace;
     --strong-font: normal bold 16px arial, helvetica, sans-serif;
-    --irina-bg-url: url(/imagens/irina-blok-g.jpg);
-    --dandroids-bg-url: url(/imagens/dan-droids-g.png); 
     --shadow-fixed: 0px 0px 10px rgba(0, 0, 0, 0;05);
 }
 
@@ -121,6 +116,8 @@ article h1, h2 {
     font-family: var(
         --font-family-title
     );
+    font-weight: bolder;
+    font-size: 30px;
     color: var(--cor04);
 }
 
@@ -163,29 +160,20 @@ strong {
 }
 
 #irina_blok {
-    background: var(--irina-bg-url) no-repeat center /cover; 
     width: 100%;
-    height: 236px;
-    transition: all .2s;
-
 }
 
 #dandroids {
-    background: var(--dandroids-bg-url) no-repeat center;
-    background-size: contain;
     width: 100%;
-    height: 32vh;
-    transition: all .2s;
+}
 
+#img_bugdroid {
+    text-align: center;
 }
 
 #bugdroid {
-    width: 100%;
-    height: 195px;
-    background: url(/imagens/bugdroid.png) no-repeat center;
-    background-size: contain;
-    transition: all .2s;
-
+    width: 50%;
+    transition: all .2s; 
 }
 
 aside h1 {
@@ -275,14 +263,11 @@ footer a {
 
 @media (max-width: 400px) {
     :root {
-        --irina-bg-url: url(/imagens/irina-blok-pq.jpg);
-        --dandroids-bg-url: url(/imagens/dan-droids-pq.png);
         --strong-font: normal bold 4vw arial, helvetica, sans-serif;
     }
 
     #dandroids {
         padding: 0;
-        height: 50vh;
         transition: all .2s;
 
     }
@@ -330,6 +315,11 @@ footer a {
     header h1 {
         font-size: 8vw;
     }
+
+    #bugdroid {
+        width: 100%;
+        transition: all .2s;
+    }
 }
 
 @media (max-width: 550px) {
@@ -349,4 +339,6 @@ footer a {
         left: 0;  
         top: 0;
     }
+
+    
 }
