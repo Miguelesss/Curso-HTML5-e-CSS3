@@ -76,10 +76,6 @@
     Executar o exercício 018
 </a>
 <br>
-<a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe019/index.html">
-    Executar o exercício 019
-</a>
-<br>
 <a href="https://miguelesss.github.io/Curso-HTML5-e-CSS3/modulo02/exercicios/exe020/index.html">
     Executar o exercício 020
 </a>
